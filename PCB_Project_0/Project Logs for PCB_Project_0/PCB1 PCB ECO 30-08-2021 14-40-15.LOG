@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=NRST Pin=R5-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U4-44
+Added Net: Name=NetR4_1
+Added Room: Name=Sheet1
